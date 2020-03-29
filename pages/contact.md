@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact PSTU"
+subheadline: "Get in touch with other organizers"
+teaser: "We're planning to put a contact form here."
 permalink: "/contact/"
+header:
+  title: Puget Sound Tenants Union
+  background-color: "#DF4949"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-
- [1]: http://www.wufoo.com/
+ In the meantime, email us at
+[contact@soundtenants.org](mailto:contact@soundtenants.org)!
