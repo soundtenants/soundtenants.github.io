@@ -20,7 +20,7 @@ you need to start organizing.
 
 <form action="https://liveformhq.com/form/a22a1a4e-4d8c-404d-b755-576e6657e155" method="POST" accept-charset="utf-8">
   <input type="hidden" name="_utf8" value="✓">
-  <input type="hidden" value="http://soundtenants.org/contact" name="_redirect" />
+  <input type="hidden" value="https://soundtenants.org/contact" name="_redirect" />
 
   <label for="name">Name</label>
   <input type="text" id="name" name="name">
