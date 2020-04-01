@@ -12,5 +12,5 @@ permalink: /index.html
 homepage: true
 header:
   title: Puget Sound Tenants Union
-  background-color: "#DF4949"
+  image_fullwidth: header.jpg
 ---

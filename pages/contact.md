@@ -7,7 +7,7 @@ teaser: "We're planning to put a contact form here."
 permalink: "/contact/"
 header:
   title: Puget Sound Tenants Union
-  background-color: "#DF4949"
+  image_fullwidth: header.jpg
 ---
 
  In the meantime, email us at
