@@ -15,7 +15,7 @@ header:
   image_fullwidth: header.jpg
 widget1:
   title: "Who We Are"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/info/'
   image: logan-liu-qNkirW3wzfo-unsplash.jpg
   text: 'PSTU is a member-run tenants’ collective that organizes tenants against rising rent, displacement, and eviction. We help tenants form associations with their neighbors to combat landlord abuse. When we’re organized together in solidarity, we have the power to fight back against greedy landlords and developers and win!'
 ---
