@@ -13,4 +13,9 @@
 - name: "Images via Wikimedia"
   url: "https://commons.wikimedia.org/"
   class: "rss-link"
-  title: "Images by Wikimedia"
+  title: "Images via Wikimedia"
+
+- name: "Images via Unsplash"
+  url: "http://unsplash.com/"
+  class: "rss-link"
+  title: "Images via Unsplash"
