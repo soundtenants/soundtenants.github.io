@@ -26,6 +26,10 @@
 			<div class="masthead-title">{{ page.header.title }}</div>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
+
+        {% if page.header.logo %}
+        <img id="masthead-logo" src="{{ site.urlimg }}/{{ page.header.logo }}">
+        {% endif %}
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}

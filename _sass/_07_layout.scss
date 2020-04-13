@@ -88,6 +88,10 @@ body.video cite { color: #fff; }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
 }
+#masthead-logo {
+  display: none;
+  position: relative;
+}
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
@@ -156,6 +160,11 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         padding: 60px 0;
     }
+    #masthead-logo {
+        display: inline-block;
+        width: 300px;
+        bottom: 4px;
+    }
 }
 
 
@@ -177,6 +186,11 @@ body.video cite { color: #fff; }
     }
     #masthead-with-text {
         padding: 95px 0;
+    }
+    #masthead-logo {
+        display: inline-block;
+        width: 350px;
+        bottom: -4px;
     }
 }
 

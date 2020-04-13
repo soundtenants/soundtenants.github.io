@@ -13,6 +13,7 @@ homepage: true
 header:
   title: Puget Sound Tenants Union
   image_fullwidth: header.jpg
+  logo: PSTU_logo.svg
 widget1:
   title: Who We Are
   url: '/info/'
