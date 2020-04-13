@@ -54,6 +54,15 @@ body.video cite { color: #fff; }
     }
 }
 
+#nav-logo {
+    width: 2.6rem;
+    height: 2.6rem;
+
+    &::before {
+        margin-right: rem-calc(8);
+    }
+}
+
 
 
 /* Search
