@@ -3,7 +3,7 @@ layout: page
 permalink: "/resources/"
 header:
   title: "Puget Sound Tenants Union"
-  image_fullwidth: sven-brandsma-JgeoaFGh0kU-unsplash.jpg
+  image_fullwidth: chuttersnap-7eQlPra81zQ-unsplash.jpg
 title: "Resources"
 teaser: "Puget Sound Tenants Union is just one of many leftist organizations in Seattle working to help tenants stay housed, fed, and safe."
 ---

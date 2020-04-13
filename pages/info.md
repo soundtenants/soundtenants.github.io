@@ -5,7 +5,7 @@ teaser: "Puget Sound Tenants Union is a base-building organization run by tenant
 permalink: "/info/"
 header:
   title: Puget Sound Tenants Union
-  background-color: "#DF4949"
+  image_fullwidth: ryan-wilson-HkF6feHrGBE-unsplash.jpg
 ---
 
 Housing is a human right, not a commodity to be traded on the market at the
