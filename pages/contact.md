@@ -28,6 +28,9 @@ you need to start organizing.
   <label for="email">Email</label>
   <input type="text" id="email" name="email">
 
+  <input type="checkbox" id="mailing-list" name="mailing-list">
+  <label for="mailing-list">Add me to the PSTU mailing list</label>
+
   <label for="message">Message</label>
   <textarea id="message" name="message" rows="8"></textarea>
 
