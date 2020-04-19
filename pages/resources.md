@@ -103,3 +103,12 @@ If you’re short on rent, the Seattle Solidarity Network has set up
 [rentrelief.net][] to help coordinate donations and organize buildings.
 
 [rentrelief.net]: https://rentrelief.net
+
+## Posters
+
+Want to help spread the word about PSTU? We've got [a poster][] you can print at
+home and put up on nearby telephone poles or other surfaces. Tape works fine,
+but the easiest and cheapest way to do it is by [wheatpasting][].
+
+[a poster]: /assets/img/poster.png
+[wheatpasting]: https://itsgoingdown.org/how-to-wheatpaste/
