@@ -49,7 +49,7 @@ other buildings they own. This can help you connect with tenants in other
 buildings owned by the same person and create a powerful coalition with lots of
 leverage to negotiate demands.
 
-[SeaSol]: https://seasol.net
+[Seattle Solidarity Network]: https://seasol.net
 [landlord research guide]: https://bit.ly/LandlordResearch
 
 ### Eviction Moratoriums
