@@ -34,7 +34,7 @@ neighbors by going door-to-door, but make sure to stay safe:
 * Keep your conversations short. Explain why you’re there and ask for contact
   info to keep talking without in-person interaction.
 
-* If you’re handing out fliers:
+* If you’re handing out [flyers][]:
 
   * Wash your hands before you prepare them and before you hand them out. If you
     touch your face, wash them again! You can never be too sure.
@@ -42,3 +42,5 @@ neighbors by going door-to-door, but make sure to stay safe:
     clean hands, but please wash your hands after touching it just in case!"
   * Gloves are good, but they aren’t magic. Putting on a new pair of gloves is
     about the same as one thorough hand wash.
+
+[flyers]: https://bit.ly/FillableFlyer

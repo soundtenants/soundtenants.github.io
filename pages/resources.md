@@ -23,6 +23,12 @@ buildings during COVID-19:
 [tanc]: https://docs.google.com/document/d/1osMMHmOn3nyhx3Or4HzKtRaeaRAyEDwnQRAtVDgt47c/edit
 [philly]: https://docs.google.com/document/d/16s-CHN29u01j3VdGJGOehhYliqeCAH9ux0yE9yCVujI/edit
 
+We've prepared a [fillable flyer][] that you can hand to neighbors or slip under
+their doors if they aren't at home. Make sure to wash your hands before handling
+it!
+
+[fillable flyer]: https://bit.ly/FillableFlyer
+
 A coalition of local housing activists have also put together [a guide to rent
 striking][noblogs] that’s particularly useful once your building starts to get
 more organized.
@@ -37,6 +43,15 @@ excellent resource for legal information of all kind.
 
 [Tenants Union of Washington State]: https://tenantsunion.org/
 
+In collaboration with the [Seattle Solidarity Network][], we've also created a
+[landlord research guide][] for figuring out who owns your building and which
+other buildings they own. This can help you connect with tenants in other
+buildings owned by the same person and create a powerful coalition with lots of
+leverage to negotiate demands.
+
+[SeaSol]: https://seasol.net
+[landlord research guide]: https://bit.ly/LandlordResearch
+
 ### Eviction Moratoriums
 
 Wondering which eviction moratorium you’re covered by and what the details are?
@@ -47,7 +62,6 @@ no-cause eviction notice until April 17th** (unless the eviction is "necessary
 to ensure the health and safety of the tenant or other individuals").
 
 [This spreadsheet]: https://docs.google.com/spreadsheets/d/1JChVH-SwPZ6W_TpnRS-9nXmJldcTArrAbl-bJiX4sno/edit
-
 
 If your landlord is serving notices despite this, you can start by [filing an
 official complaint][]. But the best way to ensure you and your neighbors will be
