@@ -23,11 +23,25 @@ buildings during COVID-19:
 [tanc]: https://docs.google.com/document/d/1osMMHmOn3nyhx3Or4HzKtRaeaRAyEDwnQRAtVDgt47c/edit
 [philly]: https://docs.google.com/document/d/16s-CHN29u01j3VdGJGOehhYliqeCAH9ux0yE9yCVujI/edit
 
-We've prepared a [fillable flyer][] that you can hand to neighbors or slip under
-their doors if they aren't at home. Make sure to wash your hands before handling
-it!
+In addition, we have some documents that can be useful in the process of
+organizing a building:
+
+* Start establishing connections in your building by handing this [fillable
+  flyer][] to neighbors or slip it under their doors if they aren't at home.
+  Make sure to wash your hands before handling it!
+
+* Move from a group of neighbors who talk to each other to a tenant council with
+  actual power by getting everyone to sign this [got your back pledge][]. Please
+  adapt it as needed to your building's particular circumstances.
+
+* Once enough neighbors have signed the pledge, send [a letter to your
+  landlord][] (or property manager) declaring your tenants' council and making
+  your demands. Again, adapt this letter as much as you see fit—every building
+  is different!
 
 [fillable flyer]: https://bit.ly/FillableFlyer
+[got your back pledge]: https://docs.google.com/document/d/1ICbP5DbnJrCVbXEr4i4S8EYpDvRmaddBVoYkAsgRxZI/view
+[a letter to your landlord]: https://docs.google.com/document/d/1IivHe3ODazPE2igLTK8zX2mG5_cm-5frv8uMFItnTeI/view
 
 A coalition of local housing activists have also put together [a guide to rent
 striking][noblogs] that’s particularly useful once your building starts to get
