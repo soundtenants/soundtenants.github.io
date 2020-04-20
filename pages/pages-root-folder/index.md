@@ -22,7 +22,7 @@ widget1:
 widget2:
   title: Resources
   url: '/resources/'
-  image: mick-haupt-8soXKIr6AXM-unsplash.jpg
+  image: sticker.png
   text: "Looking for step-to-step instructions on organizing your building? Need info on tenants’ rights or the eviction moratorium? Or are you just running short on groceries? We know people who can help."
 widget3:
   title: COVID-19
