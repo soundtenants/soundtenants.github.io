@@ -49,15 +49,9 @@ more organized.
 
 [noblogs]: https://rentstrike.noblogs.org/
 
-## Legal Info
+## Doing Research
 
-PSTU is made up of tenants and organizers, not lawyers. Fortunately, the
-[Tenants Union of Washington State][] does have lawyers, and they’re an
-excellent resource for legal information of all kind.
-
-[Tenants Union of Washington State]: https://tenantsunion.org/
-
-In collaboration with the [Seattle Solidarity Network][], we've also created a
+In collaboration with the [Seattle Solidarity Network][], we've created a
 [landlord research guide][] for figuring out who owns your building and which
 other buildings they own. This can help you connect with tenants in other
 buildings owned by the same person and create a powerful coalition with lots of
@@ -65,6 +59,15 @@ leverage to negotiate demands.
 
 [Seattle Solidarity Network]: https://seasol.net
 [landlord research guide]: https://bit.ly/LandlordResearch
+
+The [Tenants Union of Washington State][] is another a great resource.. While
+PSTU is focused on organizing to build tenant power, TUWS focuses more on
+collating and distributing information related to tenants' rights. They even
+have a [tenants' rights hotline][] to answer any immediate questions you may
+have.
+
+[Tenants Union of Washington State]: https://tenantsunion.org/
+[tenants' rights hotline]: https://tenantsunion.org/programs/tenants-rights-hotline
 
 ### Eviction Moratoriums
 
