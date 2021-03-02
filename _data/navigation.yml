@@ -10,6 +10,10 @@
   url: "/resources/"
   side: left
 
+- title: Eviction Defense
+  url: "/eviction-defense/"
+  side: left
+
 - title: COVID-19
   url: "/covid-19/"
   side: left

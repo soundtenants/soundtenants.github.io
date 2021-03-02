@@ -25,8 +25,8 @@ widget2:
   image: sticker.jpeg
   text: "Looking for step-to-step instructions on organizing your building? Need info on tenants’ rights or the eviction moratorium? Or are you just running short on groceries? We know people who can help."
 widget3:
-  title: COVID-19
-  url: '/covid-19/'
-  image: engin-akyurt-KtYvqysesC4-unsplash.jpg
-  text: "We're in midst of a pandemic and on the cusp of an economic crisis. Many people have lost their jobs and are struggling to pay rent. Many more will struggle soon. An eviction moratorium is not enough! How can we pay rent if we have no wages?"
+  title: Eviction Defense
+  url: '/eviction-defense/'
+  image: unsplash-phone-alex-andrews.png
+  text: "Help keep people in their homes during the COVID crisis."
 ---
